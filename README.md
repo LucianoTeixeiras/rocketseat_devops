@@ -41,11 +41,11 @@ Durante o curso, são abordadas diversas tecnologias:
 
 ```bash
 .
-├── modulo-01-introducao-devops/
-├── modulo-02-docker/
-├── modulo-03-kubernetes/
-├── modulo-04-ci-cd-github-actions/
-├── modulo-05-infra-como-codigo/
-├── modulo-06-monitoramento/
-├── projetos-finais/
+├── modulo-01-fundamentos-devops/
+├── modulo-02-primeiros-passos-docker/
+├── modulo-03-infra-como-codigo/
+├── modulo-04-automacao/
+├── modulo-05-orquestracao/
+├── modulo-06-observando-aplicacoes/
+├── modulo-07-proximos-conteudos/
 └── README.md
